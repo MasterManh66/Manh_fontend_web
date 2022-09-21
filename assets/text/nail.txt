@@ -1,0 +1,24 @@
+* phân tích trang website
+
+Những thành phần thường gặp trên giao diện website
+1.header ( đầu trang )
+2. Navigation ( thanh điều hướng )
+3. Breadcrumb ( chỉ cho biết đag ở đâu , map )
+4. Sidebar ( thanh 1 phía màn hình )
+5. slider ( trình diễn )
+6. Content ( Nội dung chính )
+7. footer ( chân trang ) 
+
+a.Phân tích
+1. header
+2. content
+   1. About
+   2. Tour
+   3. Contact
+   4. image
+   5. Footer
+3. footer
+4. slider
+b. Dựng base ( xây móng )
+c. Xây dựng từng phần theo phân tích
+d. hoàn thiện
